@@ -92,9 +92,6 @@ proxy-groups:
    - REJECT
    - 🚀 节点选择   
    - ⚡ 自动选择
-   - hy2-instance-20230221-1459
-   - hy2-los
-   - hy2-Korea
    - hy2-Hongkong
  - name: 📹 油管视频
    type: select
@@ -103,9 +100,6 @@ proxy-groups:
    - REJECT
    - 🚀 节点选择   
    - ⚡ 自动选择
-   - hy2-instance-20230221-1459
-   - hy2-los
-   - hy2-Korea
    - hy2-Hongkong
  - name: 🔍 谷歌服务
    type: select
@@ -114,9 +108,6 @@ proxy-groups:
    - REJECT
    - 🚀 节点选择   
    - ⚡ 自动选择
-   - hy2-instance-20230221-1459
-   - hy2-los
-   - hy2-Korea
    - hy2-Hongkong
  - name: 🏠 私有网络
    type: select
@@ -147,9 +138,6 @@ proxy-groups:
    - REJECT
    - 🚀 节点选择   
    - ⚡ 自动选择
-   - hy2-instance-20230221-1459
-   - hy2-los
-   - hy2-Korea
    - hy2-Hongkong
  - name: 🐱 Github
    type: select
@@ -158,9 +146,6 @@ proxy-groups:
    - REJECT
    - 🚀 节点选择   
    - ⚡ 自动选择
-   - hy2-instance-20230221-1459
-   - hy2-los
-   - hy2-Korea
    - hy2-Hongkong
  - name: Ⓜ️ 微软服务
    type: select
@@ -169,9 +154,6 @@ proxy-groups:
    - REJECT
    - 🚀 节点选择   
    - ⚡ 自动选择
-   - hy2-instance-20230221-1459
-   - hy2-los
-   - hy2-Korea
    - hy2-Hongkong
  - name: 🍏 苹果服务
    type: select
@@ -180,9 +162,6 @@ proxy-groups:
    - REJECT
    - 🚀 节点选择   
    - ⚡ 自动选择
-   - hy2-instance-20230221-1459
-   - hy2-los
-   - hy2-Korea
    - hy2-Hongkong
  - name: 🌐 社交媒体
    type: select
@@ -191,9 +170,6 @@ proxy-groups:
    - REJECT
    - 🚀 节点选择   
    - ⚡ 自动选择
-   - hy2-instance-20230221-1459
-   - hy2-los
-   - hy2-Korea
    - hy2-Hongkong
  - name: 🎬 流媒体
    type: select
@@ -202,9 +178,6 @@ proxy-groups:
    - REJECT
    - 🚀 节点选择   
    - ⚡ 自动选择
-   - hy2-instance-20230221-1459
-   - hy2-los
-   - hy2-Korea
    - hy2-Hongkong
  - name: 🎮 游戏平台
    type: select
@@ -213,9 +186,6 @@ proxy-groups:
    - REJECT
    - 🚀 节点选择   
    - ⚡ 自动选择
-   - hy2-instance-20230221-1459
-   - hy2-los
-   - hy2-Korea
    - hy2-Hongkong
  - name: 📚 教育资源
    type: select
@@ -224,9 +194,6 @@ proxy-groups:
    - REJECT
    - 🚀 节点选择   
    - ⚡ 自动选择
-   - hy2-instance-20230221-1459
-   - hy2-los
-   - hy2-Korea
    - hy2-Hongkong
  - name: ☁️ 云服务
    type: select
@@ -235,9 +202,6 @@ proxy-groups:
    - REJECT
    - 🚀 节点选择   
    - ⚡ 自动选择
-   - hy2-instance-20230221-1459
-   - hy2-los
-   - hy2-Korea
    - hy2-Hongkong
  - name: 🌐 非中国
    type: select
@@ -246,9 +210,6 @@ proxy-groups:
    - REJECT
    - 🚀 节点选择   
    - ⚡ 自动选择
-   - hy2-instance-20230221-1459
-   - hy2-los
-   - hy2-Korea
    - hy2-Hongkong
  - name: 🐟 漏网之鱼
    type: select
@@ -257,9 +218,6 @@ proxy-groups:
    - REJECT
    - 🚀 节点选择   
    - ⚡ 自动选择
-   - hy2-instance-20230221-1459
-   - hy2-los
-   - hy2-Korea
    - hy2-Hongkong
 
 # =========================
