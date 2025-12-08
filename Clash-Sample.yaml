@@ -3,7 +3,8 @@
 # =========================
 proxies:
 # =========================
- - name: hy2-instance-20230221-1459
+# - name: <节点的名字>                   只是显示名，随便改。但与下面”代理组配置“里引用的名字必须一字不差
+ - name: hy2-韩国amd
    type: hysteria2
    server: 152.67.199.169
    port: 64875
@@ -12,7 +13,7 @@ proxies:
    alpn:
      - h3
    skip-cert-verify: true
- - name: hy2-los
+ - name: hy2-美国洛杉矶
    type: hysteria2
    server: 38.60.91.117
    port: 34174
@@ -21,7 +22,7 @@ proxies:
    alpn:
      - h3
    skip-cert-verify: true
- - name: hy2-Korea
+ - name: hy2-韩国arm
    type: hysteria2
    server: 152.67.203.57
    port: 37606
@@ -30,7 +31,7 @@ proxies:
    alpn:
      - h3
    skip-cert-verify: true
- - name: hy2-Hongkong
+ - name: hy2-香港
    type: hysteria2
    server: 8.218.222.165
    port: 56999
@@ -668,4 +669,3 @@ rules: # 注意，分流规则是按自上而下、首次命中即停的原则�
  - RULE-SET,dropbox,☁️ 云服务
  - RULE-SET,geolocation-!cn,🌐 非中国
  - MATCH,🐟 漏网之鱼
-
