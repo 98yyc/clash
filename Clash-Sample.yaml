@@ -40,7 +40,15 @@ proxies:
    alpn:
      - h3
    skip-cert-verify: true
-
+- name: hy2-洛杉矶-饭桶
+   type: hysteria2
+   server: 74.48.46.115
+   port: 17499
+   password: a44f6047-8027-4607-877b-18fe1530b5a6
+   sni: www.bing.com
+   alpn:
+     - h3
+   skip-cert-verify: true
 # ========================= 
 
 
@@ -669,3 +677,4 @@ rules: # 注意，分流规则是按自上而下、首次命中即停的原则�
  - RULE-SET,dropbox,☁️ 云服务
  - RULE-SET,geolocation-!cn,🌐 非中国
  - MATCH,🐟 漏网之鱼
+
