@@ -47,7 +47,7 @@ proxies:
       - h3
     skip-cert-verify: true
 
-  - name: hy2-美国洛杉矶
+  - name: hy2-洛杉矶
     type: hysteria2
     server: 38.60.91.117
     port: 34174
@@ -96,7 +96,7 @@ proxy-groups:
       - hy2-香港
       - hy2-韩国amd
       - hy2-韩国arm
-      - hy2-美国洛杉矶
+      - hy2-洛杉矶
       - hy2-洛杉矶-饭桶
       - DIRECT
 
@@ -106,7 +106,7 @@ proxy-groups:
       - hy2-香港
       - hy2-韩国amd
       - hy2-韩国arm
-      - hy2-美国洛杉矶
+      - hy2-洛杉矶
       - hy2-洛杉矶-饭桶
     url: https://www.gstatic.com/generate_204
     interval: 300
@@ -115,7 +115,7 @@ proxy-groups:
   - name: 💬 AI服务
     type: select
     proxies:
-      - hy2-美国洛杉矶
+      - hy2-洛杉矶
       - hy2-洛杉矶-饭桶
       - 🚀 节点选择
       - ⚡ 自动选择
