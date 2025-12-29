@@ -87,7 +87,7 @@ proxy-groups:
       - hy2-韩国amd
       - hy2-韩国arm
       - hy2-洛杉矶
-      - hy2-洛杉矶-饭桶
+
       - DIRECT
 
   - name: ⚡ 自动选择
@@ -97,7 +97,7 @@ proxy-groups:
       - hy2-韩国amd
       - hy2-韩国arm
       - hy2-洛杉矶
-      - hy2-洛杉矶-饭桶
+
     url: https://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
@@ -106,7 +106,7 @@ proxy-groups:
     type: select
     proxies:
       - hy2-洛杉矶
-      - hy2-洛杉矶-饭桶
+
       - 🚀 节点选择
       - ⚡ 自动选择
 
@@ -211,4 +211,5 @@ rules:
 
   # 兜底
   - MATCH,🐟 漏网之鱼
+
 
