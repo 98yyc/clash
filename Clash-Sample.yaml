@@ -77,16 +77,6 @@ proxies:
       - h3
     skip-cert-verify: true
 
-  - name: hy2-洛杉矶-饭桶
-    type: hysteria2
-    server: 74.48.46.115
-    port: 17499
-    password: a44f6047-8027-4607-877b-18fe1530b5a6
-    sni: www.bing.com
-    alpn:
-      - h3
-    skip-cert-verify: true
-
 # 代理组
 proxy-groups:
   - name: 🚀 节点选择
@@ -221,3 +211,4 @@ rules:
 
   # 兜底
   - MATCH,🐟 漏网之鱼
+
