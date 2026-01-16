@@ -40,8 +40,8 @@ proxies:
   - name: hy2-韩国amd
     type: hysteria2
     server: 152.67.199.169
-    port: 13323
-    password: 9443d216-12b4-4c36-9eca-5746251bf0d2
+    port: 28425
+    password: c63e32d7-6a1b-4a45-b197-ecc45d82fc1a
     sni: www.bing.com
     alpn:
       - h3
@@ -211,6 +211,7 @@ rules:
 
   # 兜底
   - MATCH,🐟 漏网之鱼
+
 
 
 
